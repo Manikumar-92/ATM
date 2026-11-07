@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Passport Automation System
 
 This project is created for academic demonstration purpose only.
@@ -12,3 +13,7 @@ Roll Number: \&lt;25b81a6792\&gt;
 
 Class: \&lt;csd-b\&gt;
 
+=======
+# PASSPORT-AUTOMATION
+PASSPORT AUTOMATION SYSTEM
+>>>>>>> 728e3f0d70c8151ec72aa3002e95d3689af04432
